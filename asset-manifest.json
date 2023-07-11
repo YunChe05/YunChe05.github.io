@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.59e57448.css",
-    "main.js": "/static/js/main.e14c092b.js",
+    "main.js": "/static/js/main.af151755.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Barquilla.jpg": "/static/media/Barquilla.e55842726ce30eb304e3.jpg",
-    "static/media/BarquillaResume.pdf": "/static/media/BarquillaResume.adbc0e74dcfc3746e1fe.pdf",
+    "static/media/BarquillaResume.pdf": "/static/media/BarquillaResume.09543842bb39a768add5.pdf",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/IGOALS.jpg": "/static/media/IGOALS.77b1da5c2379700bc88e.jpg",
@@ -14,12 +14,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.59e57448.css.map": "/static/css/main.59e57448.css.map",
-    "main.e14c092b.js.map": "/static/js/main.e14c092b.js.map",
+    "main.af151755.js.map": "/static/js/main.af151755.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59e57448.css",
-    "static/js/main.e14c092b.js"
+    "static/js/main.af151755.js"
   ]
 }
